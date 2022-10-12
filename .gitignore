@@ -1,0 +1,6 @@
+dist-newstyle/
+wallets/
+scripts/*.json
+*.body
+*.signed
+utxo.json
